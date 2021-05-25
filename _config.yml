@@ -161,3 +161,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://groovy-hickory-d19d4.netlify.app'
